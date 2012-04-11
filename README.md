@@ -11,7 +11,7 @@ flexibility in mind. It allows developers to build better and easy to maintain
 websites with PHP.
 
 Symfony can be used to develop all kind of websites, from your personal blog
-to high traffic ones like Dailymotion or Yahoo! Answers.
+to high traffic ones like Dailymotion, YouPorn or Yahoo! Answers.
 
 Requirements
 ------------
